@@ -1,0 +1,7 @@
+pip install virtualenv virtualenvwrapper
+
+source /usr/local/bin/virtualenvwrapper.sh
+
+source ~/.bash_profile
+
+mkvirtualenv cv
