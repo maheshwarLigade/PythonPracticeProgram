@@ -17,5 +17,8 @@ ddlg = media.Movie( "DDLG" , "A marine on an alien planet",
                             "https://www.youtube.com/watch?v=Z4uh71stnPM" )
 
 # ddlg.show_trailer()
-movies = [toy_story,avatar,ddlg]
-fresh_tomatoes.open_movies_page(movies)
+# movies = [toy_story,avatar,ddlg]
+# fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.__doc__)
+print(media.Movie.__name__)
+print(media.Movie.__module__)
